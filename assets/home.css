@@ -1,0 +1,23 @@
+body{
+    
+    background-image:url(pexels-louis-1200450.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.search{
+    float: right;
+}
+
+input[type=text]{
+    padding: 6px;
+    margin-top: 4px;
+    margin-left: 4px;
+    margin-bottom: 4px;
+    border: none;
+    font-size: 17px;
+}
+
+
+
